@@ -3,3 +3,6 @@
 ## This project is a guide to create a simple NSOC with GNS3
 
 
+Under construction
+
+![image](./imgs/under-construction.png)
