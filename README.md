@@ -5,4 +5,6 @@
 
 Under construction
 
-![image](./imgs/under-construction.png)
+![image](./under-construction.png)
+
+xfun::embed_file("./step0.pdf")
