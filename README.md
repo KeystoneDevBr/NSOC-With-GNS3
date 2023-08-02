@@ -13,9 +13,26 @@ Confira o trabalho completo no link:
 
 A Imagem a seguir ilutra a Topologia de Rede do NSOC desenvolvido ao longo do Projeto Final.
 
-![image](./imgs/Topologia.png)
+![image](./imgs/topologia.png)
 
 
 
 
-[id/name]: http://link-url/
+## Configurações do Projeto
+
+As configurações do projetos estão dosponíves no item 8 do Projeto Final (8. RELAÇÕES DE APÊNDICES).
+
+Os scripts referentes a cada Apêndice poderão ser encontrados nos links a seguir: 
+
+[Apêndice I - Instalação e Configuração Inicial da Plataforma GNS3.]()
+[Apêndice II - Instalação e Configuração dos Roteadores VyOS]()
+[Apêndice III- Instalação e Configuração Inicial do Firewall pfSense]()
+[Apêndice IV - Instalação e Configuração do Switch EXOS VM]()
+[Apêndice V - Instalação e Configuração do Servidor Modelo Ubuntu Server 22.04 LTS]()
+[Apêndice VI - Instalação e Configuração da Solução com Dialog Para]()[Gerenciamento das Máquinas Virtuais Ubuntu]()
+[Apêndice VII - Instalação e Configuração da Solução Ping com Dialog]()
+[Apêndice VIII - Instalação e Configuração do Servidor Web, FTP/SFTP e Fleet Server]()
+[Apêndice IX - Instalação e Configuração Inicial do Servidor Zabbix]()
+[Apêndice X - Instalação da Elastic Stack]()
+[Apêndice XI - Detalhamento da Topologia do Projeto Final]()
+
