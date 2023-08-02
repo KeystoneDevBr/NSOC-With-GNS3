@@ -31,13 +31,13 @@ Os scripts referentes a cada Apêndice poderão ser encontrados nos links a segu
 
 [Apêndice IV - Instalação e Configuração do Switch EXOS VM](./anexos/Apêndice%20IV%20-%20Instalação%20e%20Configuração%20do%20Switch%20EXOS%20VM.sh)
 
-[Apêndice V - Instalação e Configuração do Servidor Modelo Ubuntu Server 22.04 LTS]()
+[Apêndice V - Instalação e Configuração do Servidor Modelo Ubuntu Server 22.04 LTS](./anexos/Apêndice%20V%20-%20Instalação%20e%20Configuração%20do%20Servidor%20Modelo%20Ubuntu%20Server%2022.04%20LTS.sh)
 
-[Apêndice VI - Instalação e Configuração da Solução com Dialog Para Gerenciamento das Máquinas Virtuais Ubuntu]()
+[Apêndice VI - Instalação e Configuração da Solução com Dialog Para Gerenciamento das Máquinas Virtuais Ubuntu](https://github.com/KeystoneDevBr/app_dialog.d)
 
-[Apêndice VII - Instalação e Configuração da Solução Ping com Dialog]()
+[Apêndice VII - Instalação e Configuração da Solução Ping com Dialog](https://github.com/KeystoneDevBr/encrypted-ping)
 
-[Apêndice VIII - Instalação e Configuração do Servidor Web, FTP/SFTP e Fleet Server]()
+[Apêndice VIII - Instalação e Configuração do Servidor Web, FTP/SFTP e Fleet Server](./anexos/Apêndice%20VIII%20-%20Instalação%20e%20Configuração%20do%20Servidor%20Web,%20FTP%20-%20SFTP%20e%20Fleet%20Server.sh)
 
 [Apêndice IX - Instalação e Configuração Inicial do Servidor Zabbix]()
 [Apêndice X - Instalação da Elastic Stack]()
