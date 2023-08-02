@@ -7,11 +7,10 @@ Este trabalho foi apresentado como Projeto Final da Matéria de Redes de Comunic
 
 Trabalho realizado com a supervisão do [Prof. Dr. Georges Daniel Amvame Nze](https://ppee.unb.br/?page_id=128)
 
-Confira o trabalho completo no link:  
-[Projeto Final Completo.pdf](https://github.com/KeystoneDevBr/NSOC-With-GNS3/blob/main/Projeto-Final-Completo.pdf)
+Confira o trabalho completo no link: [Projeto Final Completo.pdf](https://github.com/KeystoneDevBr/NSOC-With-GNS3/blob/main/Projeto-Final-Completo.pdf)
 
 
-A Imagem a seguir ilutra a Topologia de Rede do NSOC desenvolvido ao longo do Projeto Final.
+A imagem a seguir ilutra a Topologia de Rede do NSOC desenvolvido ao longo do Projeto Final.
 
 ![image](./imgs/topologia.png)
 
@@ -28,9 +27,9 @@ Os scripts referentes a cada Apêndice poderão ser encontrados nos links a segu
 
 [Apêndice II - Instalação e Configuração dos Roteadores VyOS](./anexos/Apêndice%20II%20-%20Instalação%20e%20Configuração%20dos%20Roteadores%20VyOS.sh)
 
-[Apêndice III- Instalação e Configuração Inicial do Firewall pfSense]()
+[Apêndice III- Instalação e Configuração Inicial do Firewall pfSense](./anexos/Apêndice%20III-%20Instalação%20e%20Configuração%20Inicial%20do%20Firewall%20pfSense.sh)
 
-[Apêndice IV - Instalação e Configuração do Switch EXOS VM]()
+[Apêndice IV - Instalação e Configuração do Switch EXOS VM](./anexos/Apêndice%20IV%20-%20Instalação%20e%20Configuração%20do%20Switch%20EXOS%20VM.sh)
 
 [Apêndice V - Instalação e Configuração do Servidor Modelo Ubuntu Server 22.04 LTS]()
 
