@@ -15,6 +15,7 @@ sudo systemctl status apache2
 sudo mkdir /var/www/grupo4folder
 sudo chown -R $USER:$USER /var/www/grupo4folder/
 sudo chmod -R 755 /var/www/grupo4folder/
+
 vim /var/www/grupo4folder/index.html
 
 <!DOCTYPE html>
@@ -63,6 +64,7 @@ sudo vim /etc/apache2/sites-available/grupo4.com.br.conf
         </VirtualHost>
 </IfModule>
 
+####################################################################################################
 #Aplicando as configurações do Virutal Host no apache
 sudo apache2ctl configtest
 cd /etc/apache2/sites-available
