@@ -5,13 +5,17 @@
 
 Este trabalho foi apresentado como Projeto Final da Matéria de Redes de Comunicação do Programa de Pós-Graduação em Enenharia Elétrica ([PPEE](https://ppee.unb.br/)) do Departamento de Engenharia Elétrica (ENE) da Universidade de Brasília.
 
-Trabalho realizado com a supervisão do ### Prof. Dr. Georges Daniel Amvame Nze
+Trabalho realizado com a supervisão do [Prof. Dr. Georges Daniel Amvame Nze](https://ppee.unb.br/?page_id=128)
 
-Confira o trabalho completo no link: 
-xfun::embed_file("./Projeto-Final-Completo.pdf")
-
-![image](./under-construction.png)
+Confira o trabalho completo no link:  
+[Projeto Final Completo.pdf](https://github.com/KeystoneDevBr/NSOC-With-GNS3/blob/main/Projeto-Final-Completo.pdf)
 
 
+A Imagem a seguir ilutra a Topologia de Rede do NSOC desenvolvido ao longo do Projeto Final.
+
+![image](./imgs/Topologia.png)
 
 
+
+
+[id/name]: http://link-url/
