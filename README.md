@@ -10,11 +10,14 @@ Trabalho realizado com a supervisão do [Prof. Dr. Georges Daniel Amvame Nze](ht
 Confira o trabalho completo no link: [Projeto Final Completo.pdf](https://github.com/KeystoneDevBr/NSOC-With-GNS3/blob/main/Projeto-Final-Completo.pdf)
 
 
-A imagem a seguir ilutra a Topologia de Rede do NSOC desenvolvido ao longo do Projeto Final.
+A imagem a seguir ilustra a Topologia de Rede do NSOC desenvolvido ao longo do Projeto Final.
 
 ![image](./imgs/topologia.png)
 
 
+A imagem a seguir ilustra o monitoramento da rede do NSOC via Zabbix.
+
+![image](./imgs/topologia-zabbix.png)
 
 
 ## Configurações do Projeto
