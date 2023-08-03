@@ -44,8 +44,8 @@ Os scripts referentes a cada Apêndice poderão ser encontrados nos links a segu
 
 [Apêndice IX - Instalação e Configuração Inicial do Servidor Zabbix](./anexos/Apêndice%20IV%20-%20Instalação%20e%20Configuração%20do%20Switch%20EXOS%20VM.sh)
 
-[Apêndice X - Instalação da Elastic Stack]()
+[Apêndice X - Instalação da Elastic Stack](./anexos/Apêndice%20X%20-%20Instalação%20da%20Elastic%20Stack.sh)
 
-[Apêndice XI - Detalhamento da Topologia do Projeto Final]()
+[Apêndice XI - Detalhamento da Topologia do Projeto Final](./imgs/topologia.png)
 
 
