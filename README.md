@@ -42,7 +42,10 @@ Os scripts referentes a cada Apêndice poderão ser encontrados nos links a segu
 
 [Apêndice VIII - Instalação e Configuração do Servidor Web, FTP/SFTP e Fleet Server](./anexos/Apêndice%20VIII%20-%20Instalação%20e%20Configuração%20do%20Servidor%20Web,%20FTP%20-%20SFTP%20e%20Fleet%20Server.sh)
 
-[Apêndice IX - Instalação e Configuração Inicial do Servidor Zabbix]()
+[Apêndice IX - Instalação e Configuração Inicial do Servidor Zabbix](./anexos/Apêndice%20IV%20-%20Instalação%20e%20Configuração%20do%20Switch%20EXOS%20VM.sh)
+
 [Apêndice X - Instalação da Elastic Stack]()
+
 [Apêndice XI - Detalhamento da Topologia do Projeto Final]()
+
 
